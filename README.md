@@ -1,2 +1,2 @@
 # RandomStatGenerator
-Random Stat Generation for Heroes
+Random Stat Generation for Warcraft III
